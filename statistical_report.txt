@@ -1,0 +1,23 @@
+
+STATISTICAL ANALYSIS REPORT
+
+Descriptive Statistics:
+Mean Sales: 123,650.48
+Median Sales: 97,955.50
+Mode Sales: 6,540.00
+Standard Deviation: 100,161.09
+
+Distribution Analysis:
+Shapiro-Wilk p-value: 0.0000
+
+Correlation Analysis:
+Quantity vs Sales Correlation: 0.69
+
+Hypothesis Testing:
+ANOVA (Sales by Region) p-value: 0.0972
+
+Confidence Interval (95%):
+Average Sales: 123,650.48 ± 19,874.13
+
+Regression Analysis:
+R-squared: 0.47
